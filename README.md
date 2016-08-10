@@ -1,24 +1,29 @@
-# README
+# Nikara-Server
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Nikara is a card game. It's a variation of **Trumps** in which the numbers of cards players recieve each round increments and players place bets (points) on how many hands they will make each round. This is the backend for the mobile client.
 
-Things you may want to cover:
+## Example
 
-* Ruby version
+WIP
 
-* System dependencies
+## Motivation
 
-* Configuration
+WIP
 
-* Database creation
+## Installation
 
-* Database initialization
+1) Clone the project:
 
-* How to run the test suite
+`https://github.com/saifjilani/Nikara-Server.git`
 
-* Services (job queues, cache servers, search engines, etc.)
+2) Install the required gems:
 
-* Deployment instructions
+`bundle install`
 
-* ...
+## Tests
+
+WIP
+
+## Contributors
+
+Muneeb Ahmad and Saif Jilani
