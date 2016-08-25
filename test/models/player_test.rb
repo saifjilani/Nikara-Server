@@ -1,7 +1,8 @@
 require 'test_helper'
 
 class PlayerTest < ActiveSupport::TestCase
-  # test "the truth" do
-  #   assert true
-  # end
+  test 'should have many points' do
+    binding.pry
+    puts 'saif'
+  end
 end
