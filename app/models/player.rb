@@ -1,4 +1,4 @@
 class Player < ApplicationRecord
   has_many :points
-  has_many :points, through: :games
+  has_many :games, through: :points
 end
