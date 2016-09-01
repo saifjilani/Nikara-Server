@@ -27,7 +27,4 @@ WIP
 
 ## Contributors
 
-#Postgres
-Muneeb's credentials: admin, admin
-
 Muneeb Ahmad and Saif Jilani
