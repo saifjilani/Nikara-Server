@@ -4,5 +4,7 @@
 # model remove the '{}' from the fixture names and add the columns immediately
 # below each fixture, per the syntax in the comments below
 #
-regular_game:
-  id: 258707977
+regular_point:
+  player: regular_player
+  game: regular_game
+  score: 25
